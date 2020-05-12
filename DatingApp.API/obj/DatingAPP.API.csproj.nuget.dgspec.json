@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thalaru\\Documents\\c#\\APIandAngular\\DatingApp\\DatingAPP.API\\DatingAPP.API.csproj": {}
+    "C:\\Users\\thalaru\\Documents\\c#\\APIandAngular\\DatingApp\\DatingApp.API\\DatingAPP.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thalaru\\Documents\\c#\\APIandAngular\\DatingApp\\DatingAPP.API\\DatingAPP.API.csproj": {
+    "C:\\Users\\thalaru\\Documents\\c#\\APIandAngular\\DatingApp\\DatingApp.API\\DatingAPP.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thalaru\\Documents\\c#\\APIandAngular\\DatingApp\\DatingAPP.API\\DatingAPP.API.csproj",
+        "projectUniqueName": "C:\\Users\\thalaru\\Documents\\c#\\APIandAngular\\DatingApp\\DatingApp.API\\DatingAPP.API.csproj",
         "projectName": "DatingAPP.API",
-        "projectPath": "C:\\Users\\thalaru\\Documents\\c#\\APIandAngular\\DatingApp\\DatingAPP.API\\DatingAPP.API.csproj",
+        "projectPath": "C:\\Users\\thalaru\\Documents\\c#\\APIandAngular\\DatingApp\\DatingApp.API\\DatingAPP.API.csproj",
         "packagesPath": "C:\\Users\\thalaru\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thalaru\\Documents\\c#\\APIandAngular\\DatingApp\\DatingAPP.API\\obj\\",
+        "outputPath": "C:\\Users\\thalaru\\Documents\\c#\\APIandAngular\\DatingApp\\DatingApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thalaru\\AppData\\Roaming\\NuGet\\NuGet.Config",
