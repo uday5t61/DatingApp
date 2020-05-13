@@ -3,11 +3,13 @@ import { HttpClient } from '@angular/common/http';
 
 @Component({
   selector: 'app-value',
-  templateUrl: './Value.component.html',
-  styleUrls: ['./Value.component.css']
+  templateUrl: './value.component.html',
+  styleUrls: ['./value.component.css']
 })
 export class ValueComponent implements OnInit {
-values: any;
+
+  values : any;
+
   constructor(private http:HttpClient) { }
 
   ngOnInit() {
@@ -15,11 +17,11 @@ values: any;
   }
 
   getValues(){
-    this.http.get('http://localhost:5000/api/values').subscribe(response => {
-this.values = response;
-    }, error => {
+    this.http.get('http://localhost:5000/api/values').subscribe(response =>{
+      this.values = response;
+    },error =>{
       console.log(error);
-    }
-    );
+    })
   }
+
 }
