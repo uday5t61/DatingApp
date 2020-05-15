@@ -69,3 +69,11 @@ C:\Users\thalaru\Documents\c#\APIandAngular\DatingApp\DatingAPP.API\bin\Debug\ne
 C:\Users\thalaru\Documents\c#\APIandAngular\DatingApp\DatingAPP.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\thalaru\Documents\c#\APIandAngular\DatingApp\DatingAPP.API\obj\Debug\netcoreapp3.1\DatingAPP.API.csproj.CopyComplete
 C:\Users\thalaru\Documents\c#\APIandAngular\DatingApp\DatingAPP.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\thalaru\Documents\c#\APIandAngular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\thalaru\Documents\c#\APIandAngular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\thalaru\Documents\c#\APIandAngular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\thalaru\Documents\c#\APIandAngular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\thalaru\Documents\c#\APIandAngular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\thalaru\Documents\c#\APIandAngular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\thalaru\Documents\c#\APIandAngular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\thalaru\Documents\c#\APIandAngular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
